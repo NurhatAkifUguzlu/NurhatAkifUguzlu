@@ -1,6 +1,6 @@
 ### Merhaba, Ben Nurhat Akif! 👋
 
-> *"Hangi çılgın bana zincir vuracakmış şaşarım!"*
+> *"Her sanal bir gerçeklikten doğar!"*
 
 Bilgisayar Mühendisliği 1. sınıf öğrencisiyim. Kodlamanın sadece "yazmak" değil, analitik bir düşünce süreci olduğuna inanıyorum. Şu an mühendislik kariyerimin temelini atıyor ve teknolojinin mutfağını öğreniyorum.
 
