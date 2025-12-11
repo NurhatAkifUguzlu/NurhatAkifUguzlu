@@ -1,6 +1,6 @@
 ### Merhaba, Ben Nurhat Akif! 👋
 
-> *"Bir problemi çözmeden önce, üzerine derinlemesine düşünmek gerekir."*
+> *"Hangi çılgın bana zincir vuracakmış şaşarım!"*
 
 Bilgisayar Mühendisliği 1. sınıf öğrencisiyim. Kodlamanın sadece "yazmak" değil, analitik bir düşünce süreci olduğuna inanıyorum. Şu an mühendislik kariyerimin temelini atıyor ve teknolojinin mutfağını öğreniyorum.
 
