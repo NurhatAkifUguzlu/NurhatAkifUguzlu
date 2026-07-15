@@ -1,42 +1,38 @@
-### Merhaba, Ben Nurhat Akif! 👋
+# Hi, I'm Nurhat Akif! 👋
 
-> *"Her sanal bir gerçeklikten doğar!"*
+*"Every virtuality stems from a reality!"*
 
-Bilgisayar Mühendisliği 1. sınıf öğrencisiyim. Kodlamanın sadece "yazmak" değil, analitik bir düşünce süreci olduğuna inanıyorum. Şu an mühendislik kariyerimin temelini atıyor ve teknolojinin mutfağını öğreniyorum.
+I am a 2nd-year Computer Engineering student who believes coding is not just about typing syntax, but a profound analytical thinking process. I am currently solidifying my engineering foundation and diving deep into how technology works under the hood.
 
----
+### 🔭 What I'm Currently Working On
 
-### 🔭 Şu An Neler Yapıyorum?
-Üniversite eğitimimde **Temel Bilimler** ve **Bilgisayar Bilimleri** arasındaki köprüyü kurmaya odaklandım:
-* 💻 **Programlama:** C Dili ve Algoritma Mantığı (Memory Management, Pointers).
-* 📐 **Mühendislik Temelleri:** Matematik (Calculus), Fizik ve Kimya ile analitik düşünce yapımı geliştiriyorum.
-* 🖥️ **Bilişim Dünyası:** Bilgisayar Mühendisliğine Giriş dersleriyle donanım ve yazılım mimarilerini kavrıyorum.
+I am bridging the gap between theoretical computer science and practical software development:
+*   **Programming:** Expanding my stack with **C++** and **Python**, while mastering Object-Oriented Programming (OOP) paradigms.
+*   **Engineering Core:** Strengthening my analytical mindset through **Discrete Mathematics** (Graph Theory) and Advanced Calculus.
+*   **Tech Exploration:** Getting my hands dirty with **Cyber Security** concepts (such as digital certificates and network vulnerabilities) and **Networking** fundamentals.
 
-### 🌱 İlgi Alanlarım & Gelecek Hedeflerim
-Teknoloji okyanusunda henüz keşif aşamasındayım ancak rotamı özellikle şu iki alana çevirmiş durumdayım:
-* 🧠 **Yapay Zeka (AI)**
-* 🛡️ **Siber Güvenlik**
+### 🌱 Interests & Future Goals
 
----
+While I am continuously navigating the vast ocean of technology, my compass is firmly set towards:
+*   🛡️ **Cyber Security & Networking**
+*   🧠 **Artificial Intelligence (AI)**
 
-### 🛠️ Kullandığım Teknolojiler & Araçlar
-**Diller & Versiyon Kontrolü:**
-<br>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🛠️ Technologies & Tools
 
-**Dökümantasyon & Ofis:**
-<br>
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+*   **Languages:** C, C++, Python
+*   **Tools:** Visual Studio Code, Git
+*   **Environment:** Windows 11 Pro
 
----
+### 📊 GitHub Stats
 
-### 📊 GitHub İstatistiklerim
-![Nurhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurhatAkifUguzlu&show_icons=true&theme=radical&hide_border=true)
+![Nurhat's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=NurhatAkifUguzlu&show_icons=true&theme=dark)
 
----
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NurhatAkifUguzlu&layout=compact&theme=dark&v=1)
 
-### 📫 İletişim
-Benimle teknoloji, dersler veya projeler hakkında konuşmak istersen:
-* 📧 **E-posta:** [nurhatakifuguzlu@gmail.com](mailto:nurhatakifuguzlu@gmail.com)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NurhatAkifUguzlu&theme=dark)
+
+
+### 📫 Let's Connect!
+
+Whether you want to discuss technology, share ideas on cyber security, or talk about projects, I'm always open to connect:
+*   📧 **Email:** nurhatakifuguzlu@gmail.com
